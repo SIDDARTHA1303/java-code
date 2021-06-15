@@ -1,7 +1,5 @@
 package com.epam.mentoring.app;
 
-import java.util.Arrays;
-
 public class Arrayex {
     public static <string> void main (String[] args)
     {
@@ -9,7 +7,5 @@ public class Arrayex {
         int[] array={2,4,6,8,10};
         System.out.println(array[0]);
         System.out.println(array[4]);
-
-
     }
 }
